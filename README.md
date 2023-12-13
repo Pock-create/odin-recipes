@@ -1,0 +1,1 @@
+This project is about creating a simple recipe webpage that will showcase my new fluency with HTML. Mainly, my ability to create lists, proper paragraphs, and embedded images. 
